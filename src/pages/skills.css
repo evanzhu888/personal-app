@@ -1,0 +1,59 @@
+.skills {
+    height: 100vh;
+    display: flex;
+    align-items: flex-start;
+}
+
+.skills>div {
+    flex: 1;
+    width: 75vw;
+    padding: 20px 20px 100px 0px;
+}
+
+.skills>h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    width: 25vw;
+    text-align: center;
+}
+
+.divider {
+    border-bottom: 1px solid #ccc;
+    margin: 10px 0;
+    padding-bottom: 10px;
+}
+
+.school {
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5vw;
+}
+
+.degree {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5vw;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skills ul li {
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}

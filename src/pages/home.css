@@ -1,0 +1,41 @@
+.home {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.text {
+    width: 30%;
+    padding: 30px;
+}
+
+.pic {
+    width: 26%;
+    height: auto;
+    border-radius: 25%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+}
+
+.text {
+    margin-right: 20px;
+}
+
+.pic {
+    border-radius: 50%;
+    /* Make the image circular */
+}

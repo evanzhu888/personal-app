@@ -1,0 +1,44 @@
+.header {
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    height: 8vh;
+}
+
+li {
+    font-size: 18px;
+}
+
+.container {
+    margin: 0;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+nav {
+    margin-left: auto;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li:hover {
+    color: #787873;
+    cursor: pointer;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
