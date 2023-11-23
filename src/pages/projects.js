@@ -30,7 +30,7 @@ export function Projects() {
                 </p>
                 <p className="projectdivider">
                     <a className="links" href="https://www.youtube.com/watch?v=VjOpc6gOzrY" rel="noopener noreferrer" target="_blank">
-                        <FaYoutube className="linkicon" /> Youtube
+                        <FaYoutube className="linkicon" /> YouTube
                     </a>
                 </p>
                 <p className="divider"></p>
