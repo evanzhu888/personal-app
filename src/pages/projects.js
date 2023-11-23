@@ -10,7 +10,7 @@ export function Projects() {
             <div>
                 <p className="school"> <strong>KeyLime</strong> <em>HackGT9</em> </p>
                 <p> Worked in a group of 4 to develop a web application that allows college students to post subleases and look for subleases using <strong>React</strong> for the front end and <strong>Firebase</strong> for the
-                    back end to manage the database and authentication
+                    back end to manage the database and authentication.
                 </p>
                 <p className="projectdivider">
                     <a className="links" href="https://github.com/ericsyz/KeyLime" rel="noopener noreferrer" target="_blank">
@@ -25,8 +25,8 @@ export function Projects() {
                 <p className="school"> <strong>COVID-19 Susceptibility: Health Factors Study</strong> <em>CS 2316</em> </p>
                 <p>Analyzed and cleaned 3 significant datasets relating to COVID-19 susceptibility and various health factors by using <strong>BeautifulSoup</strong> to web scrape HTML web pages,
                     <strong> Numpy</strong> and <strong>Pandas</strong> to clean CSV files and making <strong>REST API</strong> requests to access JSON data using the <strong>ETL</strong> process.
-                    Generated data visualizations from cleaned datasets using <strong>Plotly, Matplotlib,</strong>
-                    and <strong>Seaborn</strong> to convey meaningful trends
+                    Generated data visualizations from cleaned datasets using <strong>Plotly, Matplotlib, </strong>
+                    and <strong>Seaborn</strong> to convey meaningful trends.
                 </p>
                 <p className="projectdivider">
                     <a className="links" href="https://www.youtube.com/watch?v=VjOpc6gOzrY" rel="noopener noreferrer" target="_blank">
