@@ -15,7 +15,7 @@ export function Education() {
                 <p className="degree"><strong>High School Diploma</strong> <em>August 2017 - May 2021</em></p>
                 <p><strong>GPA: </strong> 3.97/4.0 unweighted, 5.29 weighted</p>
                 <p><strong>Relevant Coursework:</strong> AP Computer Science A (Java), Honors Computer Programming 1-2 (Visual Basic), Multivariable Calculus </p>
-                <p> <strong>Activities & Societies:</strong> Mock Trial, Science National Honor Society, Future Business Leaders of America</p>
+                <p className="divider"> <strong>Activities & Societies:</strong> Mock Trial, Science National Honor Society, Future Business Leaders of America</p>
             </div>
         </div>
     );
