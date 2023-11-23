@@ -1,5 +1,5 @@
 import "./skills.css"
-import { FaPython, FaJava, FaHtml5, FaCss3, FaReact, FaNode, FaDocker } from "react-icons/fa";
+import { FaPython, FaJava, FaHtml5, FaCss3, FaReact, FaNode, FaDocker, FaFileExcel, FaFigma } from "react-icons/fa";
 import { IoLogoJavascript, IoLogoGithub } from "react-icons/io5";
 import { DiMysql } from "react-icons/di";
 import { BsCSquareFill } from "react-icons/bs";
@@ -42,8 +42,9 @@ export function Skills() {
                         <li> <SiPandas /> Pandas </li>
                         <li> <SiJupyter /> Jupyter </li>
                         <li> <FaDocker /> Docker </li>
+                        <li> <FaFigma /> Figma </li>
+                        <li> <FaFileExcel /> Excel </li>
                     </ul>
-
                 </p>
             </div>
         </div>
