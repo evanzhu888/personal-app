@@ -14,7 +14,7 @@ export function Projects() {
                 </p>
                 <p className="projectdivider">
                     <a className="links" href="https://github.com/ericsyz/KeyLime" rel="noopener noreferrer" target="_blank">
-                        <FaGithub className="linkicon" /> Github
+                        <FaGithub className="linkicon" /> GitHub
                     </a>
                     <a className="links" href="https://devpost.com/software/keylime" rel="noopener noreferrer" target="_blank">
                         <SiDevpost className="linkicon" /> Devpost
@@ -40,7 +40,7 @@ export function Projects() {
                 </p>
                 <p className="projectdivider">
                     <a className="links" href="https://github.com/Rishi1204/listr" rel="noopener noreferrer" target="_blank">
-                        <FaGithub className="linkicon" /> Github
+                        <FaGithub className="linkicon" /> GitHub
                     </a>
                     <a className="links" href="https://devpost.com/software/listr-u02p8m" rel="noopener noreferrer" target="_blank">
                         <SiDevpost className="linkicon" /> Devpost
