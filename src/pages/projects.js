@@ -13,10 +13,10 @@ export function Projects() {
                     back end to manage the database and authentication
                 </p>
                 <p className="projectdivider">
-                    <a className="links" href="https://github.com/ericsyz/KeyLime">
+                    <a className="links" href="https://github.com/ericsyz/KeyLime" rel="noopener noreferrer" target="_blank">
                         <FaGithub className="linkicon" /> Github
                     </a>
-                    <a className="links" href="https://devpost.com/software/keylime">
+                    <a className="links" href="https://devpost.com/software/keylime" rel="noopener noreferrer" target="_blank">
                         <SiDevpost className="linkicon" /> Devpost
                     </a>
                 </p>
@@ -29,7 +29,7 @@ export function Projects() {
                     and <strong>Seaborn</strong> to convey meaningful trends
                 </p>
                 <p className="projectdivider">
-                    <a className="links" href="https://www.youtube.com/watch?v=VjOpc6gOzrY">
+                    <a className="links" href="https://www.youtube.com/watch?v=VjOpc6gOzrY" rel="noopener noreferrer" target="_blank">
                         <FaYoutube className="linkicon" /> Youtube
                     </a>
                 </p>
@@ -39,10 +39,10 @@ export function Projects() {
 
                 </p>
                 <p className="projectdivider">
-                    <a className="links" href="https://github.com/Rishi1204/listr">
+                    <a className="links" href="https://github.com/Rishi1204/listr" rel="noopener noreferrer" target="_blank">
                         <FaGithub className="linkicon" /> Github
                     </a>
-                    <a className="links" href="https://devpost.com/software/listr-u02p8m">
+                    <a className="links" href="https://devpost.com/software/listr-u02p8m" rel="noopener noreferrer" target="_blank">
                         <SiDevpost className="linkicon" /> Devpost
                     </a>
                 </p>
