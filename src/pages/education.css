@@ -1,5 +1,6 @@
 .education {
-    height: 100vh;
+    min-height: 100vh;
+    max-height: fit-content;
     display: flex;
     align-items: flex-start;
 }
