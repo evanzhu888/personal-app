@@ -16,7 +16,6 @@ export function Experience() {
                 <p className="school"> <strong>Georgia Tech</strong><em>Atlanta, Georgia</em> </p>
                 <p className="degree"><strong>Undergraduate Grader</strong> <em>January 2023 - May 2023</em></p>
                 <p className="divider"> Graded weekly homework for <strong>COE 2001 Statics</strong>, a class of 120 students under Professor Min Zhou.
-                    Awarded position after receiving the highest grade in the Fall ‘21 semester
                 </p>
                 <p className="school"> <strong>Cincinnati Financial Corporation</strong><em>Cincinnati, Ohio</em> </p>
                 <p className="degree"><strong>Software Developer Intern</strong> <em>May 2022 - August 2022</em></p>

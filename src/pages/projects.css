@@ -1,0 +1,51 @@
+.education {
+    min-height: 100vh;
+    max-height: fit-content;
+    display: flex;
+    align-items: flex-start;
+}
+
+.education>div {
+    flex: 1;
+    width: 75vw;
+    padding: 20px 20px 100px 0px;
+}
+
+.projectdivider {
+    margin: 10px;
+    display: flex;
+    width: fit-content;
+}
+
+.school {
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5vw;
+}
+
+.degree {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5vw;
+}
+
+.links {
+    display: flex;
+    flex: auto;
+    width: fit-content;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 0px 15px 0px 0px;
+    color: black;
+}
+
+.links:hover {
+    color: #4a029c;
+}
+
+.linkicon {
+    font-size: 26px;
+}
