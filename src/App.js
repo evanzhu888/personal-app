@@ -4,6 +4,7 @@ import { Home } from "./pages/home"
 import { Education } from "./pages/education";
 import { Experience } from "./pages/experience";
 import { Skills } from "./pages/skills";
+import { Projects } from "./pages/projects";
 import './App.css'
 
 function App() {
@@ -13,7 +14,9 @@ function App() {
       <Home />
       <Education />
       <Experience />
+      <Projects />
       <Skills />
+
       <Footer />
     </div >
   );

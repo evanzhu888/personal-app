@@ -18,6 +18,7 @@ export function Header() {
                     <ul>
                         <li onClick={() => scrollToPoint("edu")}>Education</li>
                         <li onClick={() => scrollToPoint("exp")}>Experience</li>
+                        <li onClick={() => scrollToPoint("pro")}>Projects</li>
                         <li onClick={() => scrollToPoint("ski")}>Skills</li>
                     </ul>
                 </nav>
