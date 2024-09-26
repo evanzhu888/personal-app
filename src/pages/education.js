@@ -9,7 +9,7 @@ export function Education() {
                 <p className="school"> <strong>Georgia Institute of Technology</strong> <em>Atlanta, Georgia</em> </p>
                 <p className="degree divider"><strong>M.S. in Computer Science | Human-Computer Interaction Specialization</strong> <em>August 2024 - 2025</em></p>
                 <p className="school"> <strong>Georgia Institute of Technology</strong> <em>Atlanta, Georgia</em> </p>
-                <p className="degree"><strong>B.S. in Computer Science | Concentrations in Intelligence & Information Internetworks</strong> <em>June 2021 - May 2024</em></p>
+                <p className="degree"><strong>B.S. in Computer Science</strong> <em>June 2021 - May 2024</em></p>
                 <p><strong>GPA: </strong> 3.91/4.0</p>
                 <p><strong>Relevant Coursework:</strong> Data Structures & Algorithms, Objects & Design, Computer Organization & Programming, Object-Oriented Programming, Statistics & Applications, Linear Algebra, Combinatorics, Artificial Intelligence, Database Systems, Design & Analysis of Algorithms, Systems & Networks, Robots & Perception, Machine Learning, Information-Security, Data Input & Manipulation</p>
                 <p className="divider"><strong>Activities & Societies:</strong> VGDev, Honors Program, Asian-American Student Association </p>

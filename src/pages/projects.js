@@ -18,6 +18,15 @@ export function Projects() {
                     </a>
                 </p>
                 <p className="divider"></p>
+                <p className="school"> <strong>NORP Homelessness Analysis</strong> </p>
+                <p> Conducted a comprehensive analysis of homelessness in California and generated data visualizations for Nonprofit Organization Research Panel (NORP) using <strong>Python</strong>, <strong>MySQL</strong>, and <strong>Seaborn</strong>. Cleaned and analyzed data from Data.gov and integrated data into NORP metabase.
+                </p>
+                <p className="projectdivider">
+                    <a className="links" href="https://www.youtube.com/watch?v=SJgjIdDYvQE" rel="noopener noreferrer" target="_blank">
+                        <FaYoutube className="linkicon" /> YouTube
+                    </a>
+                </p>
+                <p className="divider"></p>
 
                 <p className="school"> <strong>KeyLime</strong> <em>HackGT9</em> </p>
                 <p> Worked in a group of 4 to develop a web application that allows college students to post subleases and look for subleases using <strong>React</strong> for the front end and <strong>Firebase</strong> for the
