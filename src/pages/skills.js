@@ -3,7 +3,7 @@ import { FaPython, FaJava, FaHtml5, FaCss3, FaReact, FaNode, FaDocker, FaFileExc
 import { IoLogoJavascript, IoLogoGithub } from "react-icons/io5";
 import { DiMysql } from "react-icons/di";
 import { BsCSquareFill } from "react-icons/bs";
-import { SiExpress, SiNumpy, SiPandas, SiJupyter } from "react-icons/si";
+import { SiExpress, SiNumpy, SiPandas, SiJupyter, SiSpringboot } from "react-icons/si";
 
 export function Skills() {
     return (
@@ -31,6 +31,7 @@ export function Skills() {
                         <li> <FaReact /> React </li>
                         <li> <FaNode /> Node </li>
                         <li> <SiExpress /> Express </li>
+                        <li> <SiSpringboot />Spring</li>
                     </ul>
 
                 </p>
